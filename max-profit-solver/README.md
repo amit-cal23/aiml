@@ -4,7 +4,7 @@ ABSTRACT
 
 This project is to solve a multi-constraint & multi-objective LP problem.
 Here there are set of constraints with lower and upper bounds and a set of objectives 
-which are mutually inclusive & exclusive at the same time.
+which are mutually inclusive.
 
 
 DESCRIPTION
