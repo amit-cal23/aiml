@@ -71,7 +71,8 @@ Ensure the following dependencies are installed:
 
 1. Run the build.sh script:
    - ./build.sh (Note: You may want to change the hard coded paths in the build.sh to point
-   your local systems Clp and coinutils instllation directories include header files path)
+   your local systems Clp and coinutils instllation directories, this you have to do manually,
+   no autoconf here, sorry!)
    
    This will:
    - Validate dependencies.
