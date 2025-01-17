@@ -62,6 +62,7 @@ else
 fi
 
 # Hardcoded include and library paths based on user's system
+# Please change these paths to point to your installation directories
 CLP_INCLUDE_PATH="/opt/homebrew/opt/clp/include/clp/coin"
 COINUTILS_INCLUDE_PATH="/opt/homebrew/opt/coinutils/include/coinutils/coin"
 CLP_LIB_PATH="/opt/homebrew/opt/clp/lib"
