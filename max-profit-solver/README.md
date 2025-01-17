@@ -1,3 +1,6 @@
+AUTHOR: Amit Kumar Singh
+Email: amit.singh2241@gmail.com
+
 PROJECT: Profit Maximizer Solver
 
 ABSTRACT
@@ -136,10 +139,4 @@ This project is licensed under the MIT License. See the 'LICENSE' file for detai
 ## Acknowledgments
 
 Special thanks to the COIN-OR project for their robust linear programming libraries.
-
-## Contact
-
-For questions or support, reach out to:
-- Email:    amit_cal23@yahoo.com
-- GitHub:   https://github.com/amit-cal23
 
